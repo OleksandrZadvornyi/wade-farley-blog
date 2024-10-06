@@ -1,5 +1,8 @@
 # Wade Farley's Blog
 
+## About This Project
+
+This app is a personal blog called **Wade Farley's Blog**. Please note that Wade Farley is a fictional character, and the image used on the website is AI-generated.
 ## Project setup
 ```
 npm install
